@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Ashkan Tariverdi, and I am an enthusiastic Computer Engineering student at Sharif University of Technology. I have a strong interest in artificial intelligence, data science, and software engineering. I am constantly driven to learn about new technologies and enhance my skills. Regularly active on GitHub, I participate in coding activities and contribute to numerous projects.
+My name is Ashkan Tariverdi, and I am an enthusiastic Computer Engineering student at Sharif University of Technology. I have a strong interest in operating systems, computer architecture, and networking. I am constantly driven to learn about new technologies and enhance my skills. Regularly active on GitHub, I participate in coding activities and contribute to numerous projects.
 
 
 ## 🌐 Socials:
